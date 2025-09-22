@@ -4,7 +4,7 @@
 a=10
 b=30
 c=30*10*5
-
+## cambio a factor 200 por directorio
 print("resultado=", c)
-d=c*100
+d=c*200
 print("resultado total= ", d )
